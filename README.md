@@ -1,41 +1,24 @@
-# 👋 Hi, I'm Fathimath Hafseena
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=1000&color=00E5FF&center=true&vCenter=true&width=900&lines=Hey+there!+I'm+Fathimath+Hafseena;Full+Stack+Developer+%7C+MERN+%2B+Laravel;Based+in+Dubai+%7C+Immediate+Joining)](https://git.io/typing-svg)
 
-## 💻 Full Stack Developer | MERN Stack | Laravel | React.js
+![Profile Views](https://komarev.com/ghpvc/?username=fathimathhafseenaa&label=Profile%20Views&color=0e75b6&style=for-the-badge)
 
-📍 Dubai, UAE  
-🚀 Available for Immediate Joining  
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=3&section=header" width="100%"/>
 
----
+### 🚀 About Me
+```js
+const hafseena = {
+  location: "Dubai, UAE 🇦🇪",
+  role: "Full Stack Developer",
+  stack: ["React", "Node.js", "Express", "Laravel"],
+  databases: ["MySQL", "MongoDB"],
+  focus: "REST APIs • Auth • Performance • Deployment",
+  availability: "Immediate Joining ✅"
+}
+```
 
-### 🚀 Professional Summary
+### 📊 GitHub Stats
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=fathimathhafseenaa&show_icons=true&theme=tokyonight)
 
-Results-driven Full Stack Developer with 1+ year of experience building scalable, production-ready web applications using MERN stack and Laravel. Experienced in RESTful API development, backend optimization, authentication systems, and live VPS deployment. Passionate about writing clean, maintainable code and delivering high-performance applications.
+![GitHub Streak](https://streak-stats.demolab.com?user=fathimathhafseenaa&theme=tokyonight)
 
----
-
-### 💼 What I Do
-
-- Build dynamic and responsive web applications using React.js  
-- Develop secure and scalable backend systems using Node.js & Laravel  
-- Design and optimize MySQL & MongoDB databases  
-- Implement JWT authentication & role-based access control  
-- Deploy and manage production applications on VPS environments  
-
----
-
-### 🛠 Technical Skills
-
-**Frontend:** React.js, JavaScript (ES6+), HTML5, CSS3, Bootstrap  
-**Backend:** Node.js, Express.js, Laravel  
-**Database:** MongoDB, MySQL  
-**Architecture:** REST APIs, MVC, OOP  
-**Deployment:** VPS, Apache, cPanel  
-**Tools:** Git, GitHub, Postman, VS Code  
-
----
-
-### 📫 Let's Connect
-
-📧 fathimathhafseenaa@gmail.com  
-📱 +971 508856081  
-🔗 Open to full-time opportunities in Dubai
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=3&section=footer" width="100%"/>
