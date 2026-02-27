@@ -1,4 +1,4 @@
-# 👋 Hi there, I'm Fathimath Hafseena
+# 👋 Hi, I'm Fathimath Hafseena
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=1000&color=00E5FF&center=true&vCenter=true&width=900&lines=Full+Stack+Developer;MERN+Stack+%7C+Laravel+%7C+React.js;Based+in+Dubai+%7C+Immediate+Joining" />
@@ -16,6 +16,24 @@ Results-driven Full Stack Developer with 1+ year of experience building scalable
 
 ---
 
+## ⭐ Featured Work (Live)
+
+### 🧳 Perfect Tour Planners (Laravel)
+🌐 https://perfecttourplanners.com/  
+**Type:** Travel & Tour Website  
+**Tech:** Laravel, MySQL  
+**Highlights:** Dynamic pages, backend workflows, database optimization, and deployment support.
+
+### 🛒 ShopLoc (Laravel E-Commerce)
+🌐 https://shoploc.in/  
+**Type:** E-Commerce Website  
+**Tech:** Laravel, MySQL  
+**Highlights:** Product & category management, order flow logic, authentication, admin features, and production deployment.
+
+> ⚠️ Source code is not publicly available due to company policy.
+
+---
+
 ## 💼 About Me (Quick Snapshot)
 
 ```js
@@ -23,7 +41,7 @@ const hafseena = {
   location: "Dubai, UAE 🇦🇪",
   role: "Full Stack Developer",
   experience: "1+ year",
-  stack: ["React", "Node.js", "Express", "Laravel"],
+  coreSkills: ["React", "Node.js", "Express", "Laravel"],
   databases: ["MySQL", "MongoDB"],
   strengths: ["REST APIs", "JWT Auth", "RBAC", "Performance Optimization", "Deployment"],
   availability: "Immediate Joining ✅"
