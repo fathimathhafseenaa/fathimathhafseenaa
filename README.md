@@ -68,6 +68,11 @@ const hafseena = {
 </p>
 
 ---
+## 🌐 Other Live Production Projects
+
+- 🏢 UK Granite Co – http://ukgraniteco.com/ (Laravel)
+- 🏛 Sthapathi – https://sthapathi.co.in/ (Node.js + React)
+- 💄 SkinTone Beauty – https://skintone.beauty/ (Node.js + Express + React + MongoDB)
 
 ## 📊 GitHub Stats
 
