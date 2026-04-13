@@ -14,6 +14,8 @@
 
 Results-driven Full Stack Developer with 1+ year of experience building scalable, production-ready web applications using MERN stack and Laravel. Experienced in RESTful API development, backend optimization, authentication systems, and live VPS deployment. Passionate about writing clean, maintainable code and delivering high-performance applications.
 
+my portfolio link: https://my-portfolio-oirgugrf0-hafseenas-projects.vercel.app/
+
 ---
 
 ## ⭐ Featured Work (Live)
