@@ -43,9 +43,66 @@ const hafseena = {
   location: "Dubai, UAE 🇦🇪",
   role: "Full Stack Developer",
   experience: "1+ year",
-  coreSkills: ["React", "Node.js", "Express", "Laravel"],
-  databases: ["MySQL", "MongoDB"],
-  strengths: ["REST APIs", "JWT Auth", "RBAC", "Performance Optimization", "Deployment"],
+
+  coreSkills: [
+    "React.js",
+    "Angular",
+    "Node.js",
+    "Express.js",
+    "Laravel",
+    "JavaScript (ES6+)",
+    "TypeScript",
+    "PHP",
+    "REST APIs",
+    "API Integration",
+    "JWT Authentication",
+    "MVC",
+    "OOP",
+    "SDLC",
+    "Performance Optimization",
+    "Responsive Web Design"
+  ],
+
+  frontend: [
+    "React.js",
+    "Angular",
+    "HTML5",
+    "CSS3",
+    "Bootstrap"
+  ],
+
+  backend: [
+    "Node.js",
+    "Express.js",
+    "Laravel",
+    "PHP"
+  ],
+
+  databases: [
+    "MySQL",
+    "MongoDB"
+  ],
+
+  cmsAndPlatforms: [
+    "WordPress",
+    "Elementor"
+  ],
+
+  deployment: [
+    "VPS Deployment",
+    "Apache",
+    "cPanel",
+    "Vercel"
+  ],
+
+  tools: [
+    "Git",
+    "GitHub",
+    "Postman",
+    "VS Code",
+    "Version Control"
+  ],
+
   availability: "Immediate Joining ✅"
 };
 ```
