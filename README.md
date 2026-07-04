@@ -158,12 +158,12 @@ const hafseena = {
 </p>
 
 ---
-
 ## 📫 Let's Connect
 
 - 📧 Email: **fathimathhafseenaa@gmail.com**
-- 📱 Phone: **+971 508856081**
+- 📱 Phone: **+971 50 885 6081**
 - 📍 Location: **Dubai, UAE**
-- ✅ Open to **full-time opportunities** in Dubai
+- 💼 Open to **full-time and remote opportunities**
+- 🚀 Available for **Immediate Joining**
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=3&section=footer" width="100%"/>
