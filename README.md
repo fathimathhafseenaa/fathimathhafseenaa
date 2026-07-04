@@ -40,7 +40,6 @@ my portfolio link: https://fathimath-hafseena-portfolio.vercel.app/
 
 ```js
 const hafseena = {
-  location: "Dubai, UAE 🇦🇪",
   role: "Full Stack Developer",
   experience: "1+ year",
 
